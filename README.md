@@ -1,6 +1,6 @@
 # cisco_asa
 
-This Ansible Network role provides a set of platform dependent fuctions that
+This Ansible Network role provides a set of platform dependent functions that
 are designed to work with Cisco ASA network devices.  The functions included
 int his role inlcuding both configuration and fact collection.
 
